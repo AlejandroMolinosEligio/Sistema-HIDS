@@ -1,0 +1,1005 @@
+##########################################################################
+	El porcentaje sin fallos de integridad es 78.02%
+##########################################################################
+
+[FECHA] 2022-10-01 16:53:04.424552 --- Archivo ArchivoPruebaHIDS_0.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:04.440560 --- Archivo ArchivoPruebaHIDS_1.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.456565 --- Archivo ArchivoPruebaHIDS_10.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:04.472565 --- Archivo ArchivoPruebaHIDS_100.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:04.488568 --- Archivo ArchivoPruebaHIDS_101.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:04.512585 --- Archivo ArchivoPruebaHIDS_102.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:04.528558 --- Archivo ArchivoPruebaHIDS_103.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.544557 --- Archivo ArchivoPruebaHIDS_104.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.560558 --- Archivo ArchivoPruebaHIDS_105.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.576573 --- Archivo ArchivoPruebaHIDS_106.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:04.592582 --- Archivo ArchivoPruebaHIDS_107.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:04.608574 --- Archivo ArchivoPruebaHIDS_108.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:04.624573 --- Archivo ArchivoPruebaHIDS_109.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.640584 --- Archivo ArchivoPruebaHIDS_11.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:04.656579 --- Archivo ArchivoPruebaHIDS_110.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.672578 --- Archivo ArchivoPruebaHIDS_111.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.688579 --- Archivo ArchivoPruebaHIDS_112.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.712574 --- Archivo ArchivoPruebaHIDS_113.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.728558 --- Archivo ArchivoPruebaHIDS_114.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.744572 --- Archivo ArchivoPruebaHIDS_115.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.760574 --- Archivo ArchivoPruebaHIDS_116.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:04.776563 --- Archivo ArchivoPruebaHIDS_117.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:04.792580 --- Archivo ArchivoPruebaHIDS_118.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.816580 --- Archivo ArchivoPruebaHIDS_119.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.836111 --- Archivo ArchivoPruebaHIDS_12.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.854229 --- Archivo ArchivoPruebaHIDS_120.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:04.870038 --- Archivo ArchivoPruebaHIDS_121.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.885838 --- Archivo ArchivoPruebaHIDS_122.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.901846 --- Archivo ArchivoPruebaHIDS_123.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.917848 --- Archivo ArchivoPruebaHIDS_124.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:04.941832 --- Archivo ArchivoPruebaHIDS_125.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:04.949820 --- Archivo ArchivoPruebaHIDS_126.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.965822 --- Archivo ArchivoPruebaHIDS_127.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:04.983232 --- Archivo ArchivoPruebaHIDS_128.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:04.999260 --- Archivo ArchivoPruebaHIDS_129.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.023258 --- Archivo ArchivoPruebaHIDS_13.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.039272 --- Archivo ArchivoPruebaHIDS_130.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.055265 --- Archivo ArchivoPruebaHIDS_131.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.071255 --- Archivo ArchivoPruebaHIDS_132.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.087504 --- Archivo ArchivoPruebaHIDS_133.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.103280 --- Archivo ArchivoPruebaHIDS_134.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.119277 --- Archivo ArchivoPruebaHIDS_135.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.135281 --- Archivo ArchivoPruebaHIDS_136.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.151266 --- Archivo ArchivoPruebaHIDS_137.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.167274 --- Archivo ArchivoPruebaHIDS_138.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.183281 --- Archivo ArchivoPruebaHIDS_139.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.199264 --- Archivo ArchivoPruebaHIDS_14.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.215256 --- Archivo ArchivoPruebaHIDS_140.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.231274 --- Archivo ArchivoPruebaHIDS_141.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.247255 --- Archivo ArchivoPruebaHIDS_142.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.263258 --- Archivo ArchivoPruebaHIDS_143.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.279257 --- Archivo ArchivoPruebaHIDS_144.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.295262 --- Archivo ArchivoPruebaHIDS_145.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.311278 --- Archivo ArchivoPruebaHIDS_146.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.327274 --- Archivo ArchivoPruebaHIDS_147.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.343280 --- Archivo ArchivoPruebaHIDS_148.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.359280 --- Archivo ArchivoPruebaHIDS_149.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.375281 --- Archivo ArchivoPruebaHIDS_15.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.391280 --- Archivo ArchivoPruebaHIDS_150.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.415261 --- Archivo ArchivoPruebaHIDS_151.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.431256 --- Archivo ArchivoPruebaHIDS_152.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.447257 --- Archivo ArchivoPruebaHIDS_153.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.463281 --- Archivo ArchivoPruebaHIDS_154.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.479275 --- Archivo ArchivoPruebaHIDS_155.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.495272 --- Archivo ArchivoPruebaHIDS_156.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.511256 --- Archivo ArchivoPruebaHIDS_157.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.527272 --- Archivo ArchivoPruebaHIDS_158.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.543277 --- Archivo ArchivoPruebaHIDS_159.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.559260 --- Archivo ArchivoPruebaHIDS_16.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.575262 --- Archivo ArchivoPruebaHIDS_160.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.591279 --- Archivo ArchivoPruebaHIDS_161.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.607281 --- Archivo ArchivoPruebaHIDS_162.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.623256 --- Archivo ArchivoPruebaHIDS_163.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.639263 --- Archivo ArchivoPruebaHIDS_164.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.655256 --- Archivo ArchivoPruebaHIDS_165.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.671279 --- Archivo ArchivoPruebaHIDS_166.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.687278 --- Archivo ArchivoPruebaHIDS_167.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.703255 --- Archivo ArchivoPruebaHIDS_168.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.719262 --- Archivo ArchivoPruebaHIDS_169.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.735280 --- Archivo ArchivoPruebaHIDS_17.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.751279 --- Archivo ArchivoPruebaHIDS_170.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.767279 --- Archivo ArchivoPruebaHIDS_171.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.783279 --- Archivo ArchivoPruebaHIDS_172.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.799263 --- Archivo ArchivoPruebaHIDS_173.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.815280 --- Archivo ArchivoPruebaHIDS_174.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.831272 --- Archivo ArchivoPruebaHIDS_175.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.847254 --- Archivo ArchivoPruebaHIDS_176.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.863280 --- Archivo ArchivoPruebaHIDS_177.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.879256 --- Archivo ArchivoPruebaHIDS_178.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.895260 --- Archivo ArchivoPruebaHIDS_179.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.911255 --- Archivo ArchivoPruebaHIDS_18.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.927278 --- Archivo ArchivoPruebaHIDS_180.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.943255 --- Archivo ArchivoPruebaHIDS_181.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:05.959277 --- Archivo ArchivoPruebaHIDS_182.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:05.975277 --- Archivo ArchivoPruebaHIDS_183.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:05.991280 --- Archivo ArchivoPruebaHIDS_184.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.007275 --- Archivo ArchivoPruebaHIDS_185.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.023263 --- Archivo ArchivoPruebaHIDS_186.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.039279 --- Archivo ArchivoPruebaHIDS_187.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.055279 --- Archivo ArchivoPruebaHIDS_188.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.071279 --- Archivo ArchivoPruebaHIDS_189.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.087279 --- Archivo ArchivoPruebaHIDS_19.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.103272 --- Archivo ArchivoPruebaHIDS_190.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.119280 --- Archivo ArchivoPruebaHIDS_191.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.135279 --- Archivo ArchivoPruebaHIDS_192.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.151280 --- Archivo ArchivoPruebaHIDS_193.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.167255 --- Archivo ArchivoPruebaHIDS_194.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.183255 --- Archivo ArchivoPruebaHIDS_195.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.199280 --- Archivo ArchivoPruebaHIDS_196.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.215256 --- Archivo ArchivoPruebaHIDS_197.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.231265 --- Archivo ArchivoPruebaHIDS_198.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.247279 --- Archivo ArchivoPruebaHIDS_199.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.263279 --- Archivo ArchivoPruebaHIDS_2.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.279279 --- Archivo ArchivoPruebaHIDS_20.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.302710 --- Archivo ArchivoPruebaHIDS_200.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.318908 --- Archivo ArchivoPruebaHIDS_201.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.333368 --- Archivo ArchivoPruebaHIDS_202.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.349388 --- Archivo ArchivoPruebaHIDS_203.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.365389 --- Archivo ArchivoPruebaHIDS_204.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.381365 --- Archivo ArchivoPruebaHIDS_205.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.397364 --- Archivo ArchivoPruebaHIDS_206.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.413367 --- Archivo ArchivoPruebaHIDS_207.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.429374 --- Archivo ArchivoPruebaHIDS_208.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.446850 --- Archivo ArchivoPruebaHIDS_209.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.462893 --- Archivo ArchivoPruebaHIDS_21.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.478872 --- Archivo ArchivoPruebaHIDS_210.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.502872 --- Archivo ArchivoPruebaHIDS_211.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.518872 --- Archivo ArchivoPruebaHIDS_212.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.534888 --- Archivo ArchivoPruebaHIDS_213.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.550881 --- Archivo ArchivoPruebaHIDS_214.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.558962 --- Archivo ArchivoPruebaHIDS_215.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.574890 --- Archivo ArchivoPruebaHIDS_216.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.590895 --- Archivo ArchivoPruebaHIDS_217.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.606898 --- Archivo ArchivoPruebaHIDS_218.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.622883 --- Archivo ArchivoPruebaHIDS_219.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.638899 --- Archivo ArchivoPruebaHIDS_22.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.662874 --- Archivo ArchivoPruebaHIDS_220.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.670906 --- Archivo ArchivoPruebaHIDS_221.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.686899 --- Archivo ArchivoPruebaHIDS_222.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.702898 --- Archivo ArchivoPruebaHIDS_223.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.718900 --- Archivo ArchivoPruebaHIDS_224.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.734900 --- Archivo ArchivoPruebaHIDS_225.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.750876 --- Archivo ArchivoPruebaHIDS_226.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.766900 --- Archivo ArchivoPruebaHIDS_227.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.782901 --- Archivo ArchivoPruebaHIDS_228.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.798898 --- Archivo ArchivoPruebaHIDS_229.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.814897 --- Archivo ArchivoPruebaHIDS_23.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.830896 --- Archivo ArchivoPruebaHIDS_230.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.846894 --- Archivo ArchivoPruebaHIDS_231.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.862876 --- Archivo ArchivoPruebaHIDS_232.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.878890 --- Archivo ArchivoPruebaHIDS_233.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.894897 --- Archivo ArchivoPruebaHIDS_234.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.910896 --- Archivo ArchivoPruebaHIDS_235.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.926881 --- Archivo ArchivoPruebaHIDS_236.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.942881 --- Archivo ArchivoPruebaHIDS_237.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:06.958872 --- Archivo ArchivoPruebaHIDS_238.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:06.974874 --- Archivo ArchivoPruebaHIDS_239.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:06.990874 --- Archivo ArchivoPruebaHIDS_24.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.006872 --- Archivo ArchivoPruebaHIDS_240.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.022880 --- Archivo ArchivoPruebaHIDS_241.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.038872 --- Archivo ArchivoPruebaHIDS_242.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.054872 --- Archivo ArchivoPruebaHIDS_243.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.070872 --- Archivo ArchivoPruebaHIDS_244.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.086873 --- Archivo ArchivoPruebaHIDS_245.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.102873 --- Archivo ArchivoPruebaHIDS_246.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.118872 --- Archivo ArchivoPruebaHIDS_247.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.134872 --- Archivo ArchivoPruebaHIDS_248.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.150873 --- Archivo ArchivoPruebaHIDS_249.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.166873 --- Archivo ArchivoPruebaHIDS_25.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.182873 --- Archivo ArchivoPruebaHIDS_250.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.198873 --- Archivo ArchivoPruebaHIDS_251.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.214874 --- Archivo ArchivoPruebaHIDS_252.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.230888 --- Archivo ArchivoPruebaHIDS_253.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.246872 --- Archivo ArchivoPruebaHIDS_254.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.262873 --- Archivo ArchivoPruebaHIDS_255.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.278873 --- Archivo ArchivoPruebaHIDS_256.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.294872 --- Archivo ArchivoPruebaHIDS_257.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.310873 --- Archivo ArchivoPruebaHIDS_258.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.326872 --- Archivo ArchivoPruebaHIDS_259.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.342873 --- Archivo ArchivoPruebaHIDS_26.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.362300 --- Archivo ArchivoPruebaHIDS_260.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.378106 --- Archivo ArchivoPruebaHIDS_261.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.387134 --- Archivo ArchivoPruebaHIDS_262.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.403141 --- Archivo ArchivoPruebaHIDS_263.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.427147 --- Archivo ArchivoPruebaHIDS_264.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.443155 --- Archivo ArchivoPruebaHIDS_265.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.459162 --- Archivo ArchivoPruebaHIDS_266.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.475163 --- Archivo ArchivoPruebaHIDS_267.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.491154 --- Archivo ArchivoPruebaHIDS_268.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.508628 --- Archivo ArchivoPruebaHIDS_269.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.524642 --- Archivo ArchivoPruebaHIDS_27.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.540618 --- Archivo ArchivoPruebaHIDS_270.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.556618 --- Archivo ArchivoPruebaHIDS_271.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.580576 --- Archivo ArchivoPruebaHIDS_272.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.599062 --- Archivo ArchivoPruebaHIDS_273.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.615084 --- Archivo ArchivoPruebaHIDS_274.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.631107 --- Archivo ArchivoPruebaHIDS_275.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.647084 --- Archivo ArchivoPruebaHIDS_276.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.663089 --- Archivo ArchivoPruebaHIDS_277.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.679107 --- Archivo ArchivoPruebaHIDS_278.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.695106 --- Archivo ArchivoPruebaHIDS_279.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.711091 --- Archivo ArchivoPruebaHIDS_28.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.728527 --- Archivo ArchivoPruebaHIDS_280.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.744516 --- Archivo ArchivoPruebaHIDS_281.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.760510 --- Archivo ArchivoPruebaHIDS_282.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.776509 --- Archivo ArchivoPruebaHIDS_283.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.792509 --- Archivo ArchivoPruebaHIDS_284.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.808527 --- Archivo ArchivoPruebaHIDS_285.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.824526 --- Archivo ArchivoPruebaHIDS_286.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.840534 --- Archivo ArchivoPruebaHIDS_287.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.864510 --- Archivo ArchivoPruebaHIDS_288.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.880534 --- Archivo ArchivoPruebaHIDS_289.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.896516 --- Archivo ArchivoPruebaHIDS_29.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:07.912516 --- Archivo ArchivoPruebaHIDS_290.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.928532 --- Archivo ArchivoPruebaHIDS_291.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.944532 --- Archivo ArchivoPruebaHIDS_292.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.960532 --- Archivo ArchivoPruebaHIDS_293.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:07.976532 --- Archivo ArchivoPruebaHIDS_294.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:07.992510 --- Archivo ArchivoPruebaHIDS_295.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.008533 --- Archivo ArchivoPruebaHIDS_296.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.024533 --- Archivo ArchivoPruebaHIDS_297.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.048526 --- Archivo ArchivoPruebaHIDS_298.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.064508 --- Archivo ArchivoPruebaHIDS_299.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.080516 --- Archivo ArchivoPruebaHIDS_3.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.096518 --- Archivo ArchivoPruebaHIDS_30.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.112532 --- Archivo ArchivoPruebaHIDS_300.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.128511 --- Archivo ArchivoPruebaHIDS_301.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.144526 --- Archivo ArchivoPruebaHIDS_302.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.168527 --- Archivo ArchivoPruebaHIDS_303.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.184525 --- Archivo ArchivoPruebaHIDS_304.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.200533 --- Archivo ArchivoPruebaHIDS_305.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.216515 --- Archivo ArchivoPruebaHIDS_306.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.232507 --- Archivo ArchivoPruebaHIDS_307.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.248532 --- Archivo ArchivoPruebaHIDS_308.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.264509 --- Archivo ArchivoPruebaHIDS_309.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.280513 --- Archivo ArchivoPruebaHIDS_31.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.296532 --- Archivo ArchivoPruebaHIDS_310.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.312508 --- Archivo ArchivoPruebaHIDS_311.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.336534 --- Archivo ArchivoPruebaHIDS_312.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.352509 --- Archivo ArchivoPruebaHIDS_313.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.368509 --- Archivo ArchivoPruebaHIDS_314.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.384509 --- Archivo ArchivoPruebaHIDS_315.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.400510 --- Archivo ArchivoPruebaHIDS_316.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.416514 --- Archivo ArchivoPruebaHIDS_317.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.432509 --- Archivo ArchivoPruebaHIDS_318.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.456512 --- Archivo ArchivoPruebaHIDS_319.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.472507 --- Archivo ArchivoPruebaHIDS_32.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.488513 --- Archivo ArchivoPruebaHIDS_320.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.504507 --- Archivo ArchivoPruebaHIDS_321.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.520507 --- Archivo ArchivoPruebaHIDS_322.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.536507 --- Archivo ArchivoPruebaHIDS_323.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.552511 --- Archivo ArchivoPruebaHIDS_324.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.568510 --- Archivo ArchivoPruebaHIDS_325.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.592520 --- Archivo ArchivoPruebaHIDS_326.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.608508 --- Archivo ArchivoPruebaHIDS_327.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.624508 --- Archivo ArchivoPruebaHIDS_328.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.640518 --- Archivo ArchivoPruebaHIDS_329.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.656517 --- Archivo ArchivoPruebaHIDS_33.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.672510 --- Archivo ArchivoPruebaHIDS_330.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.688511 --- Archivo ArchivoPruebaHIDS_331.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.704511 --- Archivo ArchivoPruebaHIDS_332.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.720516 --- Archivo ArchivoPruebaHIDS_333.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.736533 --- Archivo ArchivoPruebaHIDS_334.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.752517 --- Archivo ArchivoPruebaHIDS_335.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.768516 --- Archivo ArchivoPruebaHIDS_336.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.784516 --- Archivo ArchivoPruebaHIDS_337.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.800533 --- Archivo ArchivoPruebaHIDS_338.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.824523 --- Archivo ArchivoPruebaHIDS_339.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.840531 --- Archivo ArchivoPruebaHIDS_34.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.856533 --- Archivo ArchivoPruebaHIDS_340.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.872508 --- Archivo ArchivoPruebaHIDS_341.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.888508 --- Archivo ArchivoPruebaHIDS_342.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.904509 --- Archivo ArchivoPruebaHIDS_343.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.925604 --- Archivo ArchivoPruebaHIDS_344.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:08.942634 --- Archivo ArchivoPruebaHIDS_345.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:08.957080 --- Archivo ArchivoPruebaHIDS_346.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.973097 --- Archivo ArchivoPruebaHIDS_347.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:08.989074 --- Archivo ArchivoPruebaHIDS_348.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.005080 --- Archivo ArchivoPruebaHIDS_349.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.021098 --- Archivo ArchivoPruebaHIDS_35.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.037097 --- Archivo ArchivoPruebaHIDS_350.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.053099 --- Archivo ArchivoPruebaHIDS_351.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.070478 --- Archivo ArchivoPruebaHIDS_352.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.086517 --- Archivo ArchivoPruebaHIDS_353.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.102526 --- Archivo ArchivoPruebaHIDS_354.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.118505 --- Archivo ArchivoPruebaHIDS_355.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.142517 --- Archivo ArchivoPruebaHIDS_356.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.158501 --- Archivo ArchivoPruebaHIDS_357.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.174501 --- Archivo ArchivoPruebaHIDS_358.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.190509 --- Archivo ArchivoPruebaHIDS_359.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.206523 --- Archivo ArchivoPruebaHIDS_36.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.226835 --- Archivo ArchivoPruebaHIDS_360.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.243967 --- Archivo ArchivoPruebaHIDS_361.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.260002 --- Archivo ArchivoPruebaHIDS_362.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.275993 --- Archivo ArchivoPruebaHIDS_363.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.292003 --- Archivo ArchivoPruebaHIDS_364.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.307993 --- Archivo ArchivoPruebaHIDS_365.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.316016 --- Archivo ArchivoPruebaHIDS_366.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.332015 --- Archivo ArchivoPruebaHIDS_367.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.348014 --- Archivo ArchivoPruebaHIDS_368.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.365394 --- Archivo ArchivoPruebaHIDS_369.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.381414 --- Archivo ArchivoPruebaHIDS_37.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.397420 --- Archivo ArchivoPruebaHIDS_370.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.413434 --- Archivo ArchivoPruebaHIDS_371.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.437418 --- Archivo ArchivoPruebaHIDS_372.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.453434 --- Archivo ArchivoPruebaHIDS_373.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.469419 --- Archivo ArchivoPruebaHIDS_374.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.493433 --- Archivo ArchivoPruebaHIDS_375.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.509443 --- Archivo ArchivoPruebaHIDS_376.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.525442 --- Archivo ArchivoPruebaHIDS_377.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.541443 --- Archivo ArchivoPruebaHIDS_378.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.557420 --- Archivo ArchivoPruebaHIDS_379.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.581423 --- Archivo ArchivoPruebaHIDS_38.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.597443 --- Archivo ArchivoPruebaHIDS_380.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.613441 --- Archivo ArchivoPruebaHIDS_381.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.629437 --- Archivo ArchivoPruebaHIDS_382.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.645458 --- Archivo ArchivoPruebaHIDS_383.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.661463 --- Archivo ArchivoPruebaHIDS_384.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.677425 --- Archivo ArchivoPruebaHIDS_385.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.693419 --- Archivo ArchivoPruebaHIDS_386.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.709416 --- Archivo ArchivoPruebaHIDS_387.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.725445 --- Archivo ArchivoPruebaHIDS_388.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.749414 --- Archivo ArchivoPruebaHIDS_389.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.765442 --- Archivo ArchivoPruebaHIDS_39.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.781442 --- Archivo ArchivoPruebaHIDS_390.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.797424 --- Archivo ArchivoPruebaHIDS_391.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.813541 --- Archivo ArchivoPruebaHIDS_392.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.829442 --- Archivo ArchivoPruebaHIDS_393.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.853424 --- Archivo ArchivoPruebaHIDS_394.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.869433 --- Archivo ArchivoPruebaHIDS_395.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.877443 --- Archivo ArchivoPruebaHIDS_396.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.901422 --- Archivo ArchivoPruebaHIDS_397.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.917421 --- Archivo ArchivoPruebaHIDS_398.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.933428 --- Archivo ArchivoPruebaHIDS_399.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.949416 --- Archivo ArchivoPruebaHIDS_4.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:09.965498 --- Archivo ArchivoPruebaHIDS_40.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:09.981436 --- Archivo ArchivoPruebaHIDS_400.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:09.997418 --- Archivo ArchivoPruebaHIDS_401.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.013418 --- Archivo ArchivoPruebaHIDS_402.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.029428 --- Archivo ArchivoPruebaHIDS_403.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.053432 --- Archivo ArchivoPruebaHIDS_404.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:10.069439 --- Archivo ArchivoPruebaHIDS_405.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.085423 --- Archivo ArchivoPruebaHIDS_406.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.101418 --- Archivo ArchivoPruebaHIDS_407.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.117425 --- Archivo ArchivoPruebaHIDS_408.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.135978 --- Archivo ArchivoPruebaHIDS_409.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.149255 --- Archivo ArchivoPruebaHIDS_41.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.165296 --- Archivo ArchivoPruebaHIDS_410.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.181301 --- Archivo ArchivoPruebaHIDS_411.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:10.197282 --- Archivo ArchivoPruebaHIDS_412.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.213298 --- Archivo ArchivoPruebaHIDS_413.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.229294 --- Archivo ArchivoPruebaHIDS_414.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:10.245285 --- Archivo ArchivoPruebaHIDS_415.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.262863 --- Archivo ArchivoPruebaHIDS_416.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.278910 --- Archivo ArchivoPruebaHIDS_417.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.302274 --- Archivo ArchivoPruebaHIDS_418.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:10.318627 --- Archivo ArchivoPruebaHIDS_419.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.334656 --- Archivo ArchivoPruebaHIDS_42.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.350657 --- Archivo ArchivoPruebaHIDS_420.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:10.366652 --- Archivo ArchivoPruebaHIDS_421.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.382671 --- Archivo ArchivoPruebaHIDS_422.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.398678 --- Archivo ArchivoPruebaHIDS_423.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.414681 --- Archivo ArchivoPruebaHIDS_424.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.422680 --- Archivo ArchivoPruebaHIDS_425.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.448209 --- Archivo ArchivoPruebaHIDS_426.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:10.464214 --- Archivo ArchivoPruebaHIDS_427.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.480215 --- Archivo ArchivoPruebaHIDS_428.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.496214 --- Archivo ArchivoPruebaHIDS_429.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.512215 --- Archivo ArchivoPruebaHIDS_43.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.528208 --- Archivo ArchivoPruebaHIDS_430.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.544189 --- Archivo ArchivoPruebaHIDS_431.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.560190 --- Archivo ArchivoPruebaHIDS_432.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.576197 --- Archivo ArchivoPruebaHIDS_433.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:10.592190 --- Archivo ArchivoPruebaHIDS_434.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.608191 --- Archivo ArchivoPruebaHIDS_435.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.624190 --- Archivo ArchivoPruebaHIDS_436.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.640196 --- Archivo ArchivoPruebaHIDS_437.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.656197 --- Archivo ArchivoPruebaHIDS_438.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.672191 --- Archivo ArchivoPruebaHIDS_439.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.688205 --- Archivo ArchivoPruebaHIDS_44.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.704211 --- Archivo ArchivoPruebaHIDS_440.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.720212 --- Archivo ArchivoPruebaHIDS_441.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.736214 --- Archivo ArchivoPruebaHIDS_442.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.752207 --- Archivo ArchivoPruebaHIDS_443.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.768196 --- Archivo ArchivoPruebaHIDS_444.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.784198 --- Archivo ArchivoPruebaHIDS_445.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:10.800197 --- Archivo ArchivoPruebaHIDS_446.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.816190 --- Archivo ArchivoPruebaHIDS_447.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.832214 --- Archivo ArchivoPruebaHIDS_448.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.848190 --- Archivo ArchivoPruebaHIDS_449.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:10.864190 --- Archivo ArchivoPruebaHIDS_45.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.880191 --- Archivo ArchivoPruebaHIDS_450.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.896205 --- Archivo ArchivoPruebaHIDS_451.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.912205 --- Archivo ArchivoPruebaHIDS_452.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.928212 --- Archivo ArchivoPruebaHIDS_453.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.944215 --- Archivo ArchivoPruebaHIDS_454.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:10.960214 --- Archivo ArchivoPruebaHIDS_455.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:10.976207 --- Archivo ArchivoPruebaHIDS_456.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:10.992207 --- Archivo ArchivoPruebaHIDS_457.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.008189 --- Archivo ArchivoPruebaHIDS_458.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.024189 --- Archivo ArchivoPruebaHIDS_459.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.040214 --- Archivo ArchivoPruebaHIDS_46.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.056205 --- Archivo ArchivoPruebaHIDS_460.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.072188 --- Archivo ArchivoPruebaHIDS_461.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.088212 --- Archivo ArchivoPruebaHIDS_462.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.104205 --- Archivo ArchivoPruebaHIDS_463.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.120205 --- Archivo ArchivoPruebaHIDS_464.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.136212 --- Archivo ArchivoPruebaHIDS_465.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.152214 --- Archivo ArchivoPruebaHIDS_466.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.168207 --- Archivo ArchivoPruebaHIDS_467.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.184207 --- Archivo ArchivoPruebaHIDS_468.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.200213 --- Archivo ArchivoPruebaHIDS_469.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.216193 --- Archivo ArchivoPruebaHIDS_47.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.232199 --- Archivo ArchivoPruebaHIDS_470.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.248197 --- Archivo ArchivoPruebaHIDS_471.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.264215 --- Archivo ArchivoPruebaHIDS_472.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.280214 --- Archivo ArchivoPruebaHIDS_473.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.296214 --- Archivo ArchivoPruebaHIDS_474.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.312214 --- Archivo ArchivoPruebaHIDS_475.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.336190 --- Archivo ArchivoPruebaHIDS_476.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.354503 --- Archivo ArchivoPruebaHIDS_477.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.365298 --- Archivo ArchivoPruebaHIDS_478.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.381346 --- Archivo ArchivoPruebaHIDS_479.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.397319 --- Archivo ArchivoPruebaHIDS_48.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.413319 --- Archivo ArchivoPruebaHIDS_480.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.429344 --- Archivo ArchivoPruebaHIDS_481.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.445319 --- Archivo ArchivoPruebaHIDS_482.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.461321 --- Archivo ArchivoPruebaHIDS_483.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.477321 --- Archivo ArchivoPruebaHIDS_484.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.494778 --- Archivo ArchivoPruebaHIDS_485.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.510784 --- Archivo ArchivoPruebaHIDS_486.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.526784 --- Archivo ArchivoPruebaHIDS_487.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.542786 --- Archivo ArchivoPruebaHIDS_488.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.558786 --- Archivo ArchivoPruebaHIDS_489.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.574770 --- Archivo ArchivoPruebaHIDS_49.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.598761 --- Archivo ArchivoPruebaHIDS_490.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.614762 --- Archivo ArchivoPruebaHIDS_491.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.630785 --- Archivo ArchivoPruebaHIDS_492.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.653248 --- Archivo ArchivoPruebaHIDS_493.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.670270 --- Archivo ArchivoPruebaHIDS_494.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.684534 --- Archivo ArchivoPruebaHIDS_495.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.700558 --- Archivo ArchivoPruebaHIDS_496.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.716557 --- Archivo ArchivoPruebaHIDS_497.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.732558 --- Archivo ArchivoPruebaHIDS_498.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.748540 --- Archivo ArchivoPruebaHIDS_499.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.764557 --- Archivo ArchivoPruebaHIDS_5.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.780541 --- Archivo ArchivoPruebaHIDS_50.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.797978 --- Archivo ArchivoPruebaHIDS_500.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.814011 --- Archivo ArchivoPruebaHIDS_501.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.830008 --- Archivo ArchivoPruebaHIDS_502.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.846001 --- Archivo ArchivoPruebaHIDS_503.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.862002 --- Archivo ArchivoPruebaHIDS_504.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.878017 --- Archivo ArchivoPruebaHIDS_505.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.894000 --- Archivo ArchivoPruebaHIDS_506.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.910002 --- Archivo ArchivoPruebaHIDS_507.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.926001 --- Archivo ArchivoPruebaHIDS_508.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:11.942006 --- Archivo ArchivoPruebaHIDS_509.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.958006 --- Archivo ArchivoPruebaHIDS_51.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:11.974001 --- Archivo ArchivoPruebaHIDS_510.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:11.990000 --- Archivo ArchivoPruebaHIDS_511.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.006000 --- Archivo ArchivoPruebaHIDS_512.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.022001 --- Archivo ArchivoPruebaHIDS_513.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.038001 --- Archivo ArchivoPruebaHIDS_514.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.054025 --- Archivo ArchivoPruebaHIDS_515.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.070001 --- Archivo ArchivoPruebaHIDS_516.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.086008 --- Archivo ArchivoPruebaHIDS_517.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:12.102002 --- Archivo ArchivoPruebaHIDS_518.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.118018 --- Archivo ArchivoPruebaHIDS_519.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.134009 --- Archivo ArchivoPruebaHIDS_52.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.150009 --- Archivo ArchivoPruebaHIDS_520.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.166008 --- Archivo ArchivoPruebaHIDS_521.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.182002 --- Archivo ArchivoPruebaHIDS_522.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.198025 --- Archivo ArchivoPruebaHIDS_523.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.214024 --- Archivo ArchivoPruebaHIDS_524.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:12.230024 --- Archivo ArchivoPruebaHIDS_525.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.246020 --- Archivo ArchivoPruebaHIDS_526.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.262002 --- Archivo ArchivoPruebaHIDS_527.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:12.278019 --- Archivo ArchivoPruebaHIDS_528.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.294019 --- Archivo ArchivoPruebaHIDS_529.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.310005 --- Archivo ArchivoPruebaHIDS_53.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.326002 --- Archivo ArchivoPruebaHIDS_530.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.350009 --- Archivo ArchivoPruebaHIDS_531.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.366007 --- Archivo ArchivoPruebaHIDS_532.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.382021 --- Archivo ArchivoPruebaHIDS_533.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.398010 --- Archivo ArchivoPruebaHIDS_534.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:12.414027 --- Archivo ArchivoPruebaHIDS_535.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.430010 --- Archivo ArchivoPruebaHIDS_536.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.454026 --- Archivo ArchivoPruebaHIDS_537.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:12.470021 --- Archivo ArchivoPruebaHIDS_538.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.486001 --- Archivo ArchivoPruebaHIDS_539.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.502025 --- Archivo ArchivoPruebaHIDS_54.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.518002 --- Archivo ArchivoPruebaHIDS_540.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.534018 --- Archivo ArchivoPruebaHIDS_541.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.550019 --- Archivo ArchivoPruebaHIDS_542.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.574001 --- Archivo ArchivoPruebaHIDS_543.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.590006 --- Archivo ArchivoPruebaHIDS_544.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.606019 --- Archivo ArchivoPruebaHIDS_545.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.622023 --- Archivo ArchivoPruebaHIDS_546.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.638000 --- Archivo ArchivoPruebaHIDS_547.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.654007 --- Archivo ArchivoPruebaHIDS_548.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.670001 --- Archivo ArchivoPruebaHIDS_549.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.686018 --- Archivo ArchivoPruebaHIDS_55.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.702002 --- Archivo ArchivoPruebaHIDS_550.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.726003 --- Archivo ArchivoPruebaHIDS_551.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.750004 --- Archivo ArchivoPruebaHIDS_552.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.766011 --- Archivo ArchivoPruebaHIDS_553.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:12.781999 --- Archivo ArchivoPruebaHIDS_554.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.806003 --- Archivo ArchivoPruebaHIDS_555.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:12.822003 --- Archivo ArchivoPruebaHIDS_556.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.838018 --- Archivo ArchivoPruebaHIDS_557.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.854025 --- Archivo ArchivoPruebaHIDS_558.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.870003 --- Archivo ArchivoPruebaHIDS_559.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.886007 --- Archivo ArchivoPruebaHIDS_56.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:12.902021 --- Archivo ArchivoPruebaHIDS_560.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.926025 --- Archivo ArchivoPruebaHIDS_561.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:12.942000 --- Archivo ArchivoPruebaHIDS_562.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:12.958026 --- Archivo ArchivoPruebaHIDS_563.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:12.974019 --- Archivo ArchivoPruebaHIDS_564.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:12.990002 --- Archivo ArchivoPruebaHIDS_565.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.006025 --- Archivo ArchivoPruebaHIDS_566.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.025647 --- Archivo ArchivoPruebaHIDS_567.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.042889 --- Archivo ArchivoPruebaHIDS_568.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.058929 --- Archivo ArchivoPruebaHIDS_569.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.074930 --- Archivo ArchivoPruebaHIDS_57.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.090909 --- Archivo ArchivoPruebaHIDS_570.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:13.106934 --- Archivo ArchivoPruebaHIDS_571.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.122915 --- Archivo ArchivoPruebaHIDS_572.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.138935 --- Archivo ArchivoPruebaHIDS_573.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.154928 --- Archivo ArchivoPruebaHIDS_574.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.172508 --- Archivo ArchivoPruebaHIDS_575.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.188516 --- Archivo ArchivoPruebaHIDS_576.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.204510 --- Archivo ArchivoPruebaHIDS_577.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.220511 --- Archivo ArchivoPruebaHIDS_578.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.236511 --- Archivo ArchivoPruebaHIDS_579.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.252533 --- Archivo ArchivoPruebaHIDS_58.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.268534 --- Archivo ArchivoPruebaHIDS_580.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.284534 --- Archivo ArchivoPruebaHIDS_581.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.300509 --- Archivo ArchivoPruebaHIDS_582.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.316510 --- Archivo ArchivoPruebaHIDS_583.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:13.332525 --- Archivo ArchivoPruebaHIDS_584.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.348525 --- Archivo ArchivoPruebaHIDS_585.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.372510 --- Archivo ArchivoPruebaHIDS_586.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.404513 --- Archivo ArchivoPruebaHIDS_587.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.428519 --- Archivo ArchivoPruebaHIDS_588.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.452522 --- Archivo ArchivoPruebaHIDS_589.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.524518 --- Archivo ArchivoPruebaHIDS_59.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.548516 --- Archivo ArchivoPruebaHIDS_590.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.572515 --- Archivo ArchivoPruebaHIDS_591.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.596514 --- Archivo ArchivoPruebaHIDS_592.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.620055 --- Archivo ArchivoPruebaHIDS_593.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.631901 --- Archivo ArchivoPruebaHIDS_594.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.647922 --- Archivo ArchivoPruebaHIDS_595.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.663929 --- Archivo ArchivoPruebaHIDS_596.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.679932 --- Archivo ArchivoPruebaHIDS_597.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.695934 --- Archivo ArchivoPruebaHIDS_598.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.711924 --- Archivo ArchivoPruebaHIDS_599.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.727922 --- Archivo ArchivoPruebaHIDS_6.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.751926 --- Archivo ArchivoPruebaHIDS_60.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:13.769333 --- Archivo ArchivoPruebaHIDS_600.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.785369 --- Archivo ArchivoPruebaHIDS_601.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.801368 --- Archivo ArchivoPruebaHIDS_602.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.817367 --- Archivo ArchivoPruebaHIDS_603.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.833370 --- Archivo ArchivoPruebaHIDS_604.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:13.849367 --- Archivo ArchivoPruebaHIDS_605.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:13.865359 --- Archivo ArchivoPruebaHIDS_606.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.881362 --- Archivo ArchivoPruebaHIDS_607.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.905361 --- Archivo ArchivoPruebaHIDS_608.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:13.921364 --- Archivo ArchivoPruebaHIDS_609.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:13.945362 --- Archivo ArchivoPruebaHIDS_61.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.961361 --- Archivo ArchivoPruebaHIDS_610.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:13.977360 --- Archivo ArchivoPruebaHIDS_611.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:14.009359 --- Archivo ArchivoPruebaHIDS_612.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.025363 --- Archivo ArchivoPruebaHIDS_613.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.041359 --- Archivo ArchivoPruebaHIDS_614.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.057372 --- Archivo ArchivoPruebaHIDS_615.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:14.065377 --- Archivo ArchivoPruebaHIDS_616.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.089375 --- Archivo ArchivoPruebaHIDS_617.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.105386 --- Archivo ArchivoPruebaHIDS_618.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.121365 --- Archivo ArchivoPruebaHIDS_619.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.137364 --- Archivo ArchivoPruebaHIDS_62.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:14.153385 --- Archivo ArchivoPruebaHIDS_620.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.169382 --- Archivo ArchivoPruebaHIDS_621.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.185374 --- Archivo ArchivoPruebaHIDS_622.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.201364 --- Archivo ArchivoPruebaHIDS_623.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:14.217385 --- Archivo ArchivoPruebaHIDS_624.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.233365 --- Archivo ArchivoPruebaHIDS_625.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.249364 --- Archivo ArchivoPruebaHIDS_626.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.265385 --- Archivo ArchivoPruebaHIDS_627.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.281381 --- Archivo ArchivoPruebaHIDS_628.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.297369 --- Archivo ArchivoPruebaHIDS_629.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.305384 --- Archivo ArchivoPruebaHIDS_63.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.329364 --- Archivo ArchivoPruebaHIDS_630.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.345383 --- Archivo ArchivoPruebaHIDS_631.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.361381 --- Archivo ArchivoPruebaHIDS_632.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.385584 --- Archivo ArchivoPruebaHIDS_633.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.402637 --- Archivo ArchivoPruebaHIDS_634.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.421842 --- Archivo ArchivoPruebaHIDS_635.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.429856 --- Archivo ArchivoPruebaHIDS_636.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.445869 --- Archivo ArchivoPruebaHIDS_637.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.461869 --- Archivo ArchivoPruebaHIDS_638.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.477852 --- Archivo ArchivoPruebaHIDS_639.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.493862 --- Archivo ArchivoPruebaHIDS_64.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.509868 --- Archivo ArchivoPruebaHIDS_640.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.527345 --- Archivo ArchivoPruebaHIDS_641.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.543393 --- Archivo ArchivoPruebaHIDS_642.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:14.559619 --- Archivo ArchivoPruebaHIDS_643.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:14.575392 --- Archivo ArchivoPruebaHIDS_644.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.591623 --- Archivo ArchivoPruebaHIDS_645.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.607394 --- Archivo ArchivoPruebaHIDS_646.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:14.623387 --- Archivo ArchivoPruebaHIDS_647.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.639394 --- Archivo ArchivoPruebaHIDS_648.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.655394 --- Archivo ArchivoPruebaHIDS_649.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.671395 --- Archivo ArchivoPruebaHIDS_65.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.687382 --- Archivo ArchivoPruebaHIDS_650.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.695395 --- Archivo ArchivoPruebaHIDS_651.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.719385 --- Archivo ArchivoPruebaHIDS_652.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:14.735371 --- Archivo ArchivoPruebaHIDS_653.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.751392 --- Archivo ArchivoPruebaHIDS_654.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.767392 --- Archivo ArchivoPruebaHIDS_655.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.783384 --- Archivo ArchivoPruebaHIDS_656.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.799376 --- Archivo ArchivoPruebaHIDS_657.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.815384 --- Archivo ArchivoPruebaHIDS_658.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.831384 --- Archivo ArchivoPruebaHIDS_659.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.847391 --- Archivo ArchivoPruebaHIDS_66.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.863391 --- Archivo ArchivoPruebaHIDS_660.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.879384 --- Archivo ArchivoPruebaHIDS_661.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.895366 --- Archivo ArchivoPruebaHIDS_662.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.911368 --- Archivo ArchivoPruebaHIDS_663.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.927369 --- Archivo ArchivoPruebaHIDS_664.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:14.943373 --- Archivo ArchivoPruebaHIDS_665.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:14.959389 --- Archivo ArchivoPruebaHIDS_666.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.975390 --- Archivo ArchivoPruebaHIDS_667.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:14.991391 --- Archivo ArchivoPruebaHIDS_668.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.015372 --- Archivo ArchivoPruebaHIDS_669.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:15.031371 --- Archivo ArchivoPruebaHIDS_67.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:15.047394 --- Archivo ArchivoPruebaHIDS_670.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.063388 --- Archivo ArchivoPruebaHIDS_671.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.079393 --- Archivo ArchivoPruebaHIDS_672.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.095368 --- Archivo ArchivoPruebaHIDS_673.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.111393 --- Archivo ArchivoPruebaHIDS_674.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.127392 --- Archivo ArchivoPruebaHIDS_675.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.143392 --- Archivo ArchivoPruebaHIDS_676.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.159393 --- Archivo ArchivoPruebaHIDS_677.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:15.175366 --- Archivo ArchivoPruebaHIDS_678.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.191367 --- Archivo ArchivoPruebaHIDS_679.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.207393 --- Archivo ArchivoPruebaHIDS_68.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.231393 --- Archivo ArchivoPruebaHIDS_680.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.247392 --- Archivo ArchivoPruebaHIDS_681.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:15.263392 --- Archivo ArchivoPruebaHIDS_682.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.279368 --- Archivo ArchivoPruebaHIDS_683.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.295367 --- Archivo ArchivoPruebaHIDS_684.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.311375 --- Archivo ArchivoPruebaHIDS_685.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.327392 --- Archivo ArchivoPruebaHIDS_686.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.343392 --- Archivo ArchivoPruebaHIDS_687.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.359392 --- Archivo ArchivoPruebaHIDS_688.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.375370 --- Archivo ArchivoPruebaHIDS_689.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.391369 --- Archivo ArchivoPruebaHIDS_69.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.415368 --- Archivo ArchivoPruebaHIDS_690.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.431388 --- Archivo ArchivoPruebaHIDS_691.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.447369 --- Archivo ArchivoPruebaHIDS_692.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.463373 --- Archivo ArchivoPruebaHIDS_693.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.479384 --- Archivo ArchivoPruebaHIDS_694.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.495391 --- Archivo ArchivoPruebaHIDS_695.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:15.511366 --- Archivo ArchivoPruebaHIDS_696.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.527393 --- Archivo ArchivoPruebaHIDS_697.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.543367 --- Archivo ArchivoPruebaHIDS_698.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.567374 --- Archivo ArchivoPruebaHIDS_699.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.583392 --- Archivo ArchivoPruebaHIDS_7.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:15.599392 --- Archivo ArchivoPruebaHIDS_70.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.615368 --- Archivo ArchivoPruebaHIDS_700.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.631368 --- Archivo ArchivoPruebaHIDS_701.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.647368 --- Archivo ArchivoPruebaHIDS_702.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.671371 --- Archivo ArchivoPruebaHIDS_703.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.687368 --- Archivo ArchivoPruebaHIDS_704.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:15.703385 --- Archivo ArchivoPruebaHIDS_705.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.719366 --- Archivo ArchivoPruebaHIDS_706.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.735374 --- Archivo ArchivoPruebaHIDS_707.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.760062 --- Archivo ArchivoPruebaHIDS_708.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.773875 --- Archivo ArchivoPruebaHIDS_709.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.789923 --- Archivo ArchivoPruebaHIDS_71.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.805922 --- Archivo ArchivoPruebaHIDS_710.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.821923 --- Archivo ArchivoPruebaHIDS_711.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:15.837899 --- Archivo ArchivoPruebaHIDS_712.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.853905 --- Archivo ArchivoPruebaHIDS_713.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.869903 --- Archivo ArchivoPruebaHIDS_714.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.887348 --- Archivo ArchivoPruebaHIDS_715.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.903392 --- Archivo ArchivoPruebaHIDS_716.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.927401 --- Archivo ArchivoPruebaHIDS_717.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:15.943396 --- Archivo ArchivoPruebaHIDS_718.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.959370 --- Archivo ArchivoPruebaHIDS_719.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:15.975380 --- Archivo ArchivoPruebaHIDS_72.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:15.991369 --- Archivo ArchivoPruebaHIDS_720.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.015369 --- Archivo ArchivoPruebaHIDS_721.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.031380 --- Archivo ArchivoPruebaHIDS_722.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.047396 --- Archivo ArchivoPruebaHIDS_723.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.063398 --- Archivo ArchivoPruebaHIDS_724.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.079398 --- Archivo ArchivoPruebaHIDS_725.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.095395 --- Archivo ArchivoPruebaHIDS_726.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.111399 --- Archivo ArchivoPruebaHIDS_727.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.127502 --- Archivo ArchivoPruebaHIDS_728.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.143398 --- Archivo ArchivoPruebaHIDS_729.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.159395 --- Archivo ArchivoPruebaHIDS_73.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.175398 --- Archivo ArchivoPruebaHIDS_730.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.191656 --- Archivo ArchivoPruebaHIDS_731.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.207684 --- Archivo ArchivoPruebaHIDS_732.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.223621 --- Archivo ArchivoPruebaHIDS_733.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.247377 --- Archivo ArchivoPruebaHIDS_734.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.271377 --- Archivo ArchivoPruebaHIDS_735.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.295382 --- Archivo ArchivoPruebaHIDS_736.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.319383 --- Archivo ArchivoPruebaHIDS_737.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.335379 --- Archivo ArchivoPruebaHIDS_738.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.359375 --- Archivo ArchivoPruebaHIDS_739.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.383371 --- Archivo ArchivoPruebaHIDS_74.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.403708 --- Archivo ArchivoPruebaHIDS_740.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.413145 --- Archivo ArchivoPruebaHIDS_741.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.437172 --- Archivo ArchivoPruebaHIDS_742.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.445168 --- Archivo ArchivoPruebaHIDS_743.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.461171 --- Archivo ArchivoPruebaHIDS_744.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.477164 --- Archivo ArchivoPruebaHIDS_745.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.493166 --- Archivo ArchivoPruebaHIDS_746.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.509169 --- Archivo ArchivoPruebaHIDS_747.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.525167 --- Archivo ArchivoPruebaHIDS_748.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.541166 --- Archivo ArchivoPruebaHIDS_749.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.557189 --- Archivo ArchivoPruebaHIDS_75.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.582558 --- Archivo ArchivoPruebaHIDS_750.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.590602 --- Archivo ArchivoPruebaHIDS_751.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.614599 --- Archivo ArchivoPruebaHIDS_752.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.638587 --- Archivo ArchivoPruebaHIDS_753.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.654587 --- Archivo ArchivoPruebaHIDS_754.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.670583 --- Archivo ArchivoPruebaHIDS_755.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.694597 --- Archivo ArchivoPruebaHIDS_756.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.715874 --- Archivo ArchivoPruebaHIDS_757.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.732109 --- Archivo ArchivoPruebaHIDS_758.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.747428 --- Archivo ArchivoPruebaHIDS_759.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.755429 --- Archivo ArchivoPruebaHIDS_76.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.771451 --- Archivo ArchivoPruebaHIDS_760.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.795440 --- Archivo ArchivoPruebaHIDS_761.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.811452 --- Archivo ArchivoPruebaHIDS_762.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.827436 --- Archivo ArchivoPruebaHIDS_763.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.851427 --- Archivo ArchivoPruebaHIDS_764.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.867426 --- Archivo ArchivoPruebaHIDS_765.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.883445 --- Archivo ArchivoPruebaHIDS_766.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.899453 --- Archivo ArchivoPruebaHIDS_767.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.915446 --- Archivo ArchivoPruebaHIDS_768.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.931453 --- Archivo ArchivoPruebaHIDS_769.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:16.948816 --- Archivo ArchivoPruebaHIDS_77.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.964842 --- Archivo ArchivoPruebaHIDS_770.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:16.972864 --- Archivo ArchivoPruebaHIDS_771.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:16.988862 --- Archivo ArchivoPruebaHIDS_772.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.004862 --- Archivo ArchivoPruebaHIDS_773.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.020863 --- Archivo ArchivoPruebaHIDS_774.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.036862 --- Archivo ArchivoPruebaHIDS_775.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.052862 --- Archivo ArchivoPruebaHIDS_776.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.068837 --- Archivo ArchivoPruebaHIDS_777.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.091964 --- Archivo ArchivoPruebaHIDS_778.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.107864 --- Archivo ArchivoPruebaHIDS_779.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.123886 --- Archivo ArchivoPruebaHIDS_78.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.139886 --- Archivo ArchivoPruebaHIDS_780.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.155885 --- Archivo ArchivoPruebaHIDS_781.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.179895 --- Archivo ArchivoPruebaHIDS_782.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.195888 --- Archivo ArchivoPruebaHIDS_783.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.211882 --- Archivo ArchivoPruebaHIDS_784.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.227881 --- Archivo ArchivoPruebaHIDS_785.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.251888 --- Archivo ArchivoPruebaHIDS_786.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.267886 --- Archivo ArchivoPruebaHIDS_787.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.283909 --- Archivo ArchivoPruebaHIDS_788.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.299882 --- Archivo ArchivoPruebaHIDS_789.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.315883 --- Archivo ArchivoPruebaHIDS_79.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.331890 --- Archivo ArchivoPruebaHIDS_790.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.347889 --- Archivo ArchivoPruebaHIDS_791.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.363883 --- Archivo ArchivoPruebaHIDS_792.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.379907 --- Archivo ArchivoPruebaHIDS_793.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.395907 --- Archivo ArchivoPruebaHIDS_794.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.411883 --- Archivo ArchivoPruebaHIDS_795.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.427883 --- Archivo ArchivoPruebaHIDS_796.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.443886 --- Archivo ArchivoPruebaHIDS_797.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.459883 --- Archivo ArchivoPruebaHIDS_798.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.475899 --- Archivo ArchivoPruebaHIDS_799.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.491907 --- Archivo ArchivoPruebaHIDS_8.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.507883 --- Archivo ArchivoPruebaHIDS_80.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.523882 --- Archivo ArchivoPruebaHIDS_800.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.539882 --- Archivo ArchivoPruebaHIDS_801.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.555904 --- Archivo ArchivoPruebaHIDS_802.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.571888 --- Archivo ArchivoPruebaHIDS_803.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.587883 --- Archivo ArchivoPruebaHIDS_804.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.603898 --- Archivo ArchivoPruebaHIDS_805.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.619904 --- Archivo ArchivoPruebaHIDS_806.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.635888 --- Archivo ArchivoPruebaHIDS_807.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.651888 --- Archivo ArchivoPruebaHIDS_808.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.667906 --- Archivo ArchivoPruebaHIDS_809.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.683883 --- Archivo ArchivoPruebaHIDS_81.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.699890 --- Archivo ArchivoPruebaHIDS_810.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.715882 --- Archivo ArchivoPruebaHIDS_811.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.731897 --- Archivo ArchivoPruebaHIDS_812.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.747890 --- Archivo ArchivoPruebaHIDS_813.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.763906 --- Archivo ArchivoPruebaHIDS_814.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.779906 --- Archivo ArchivoPruebaHIDS_815.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.795906 --- Archivo ArchivoPruebaHIDS_816.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.811881 --- Archivo ArchivoPruebaHIDS_817.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.827883 --- Archivo ArchivoPruebaHIDS_818.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.843888 --- Archivo ArchivoPruebaHIDS_819.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.859882 --- Archivo ArchivoPruebaHIDS_82.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.875884 --- Archivo ArchivoPruebaHIDS_820.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.891897 --- Archivo ArchivoPruebaHIDS_821.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.907904 --- Archivo ArchivoPruebaHIDS_822.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.923904 --- Archivo ArchivoPruebaHIDS_823.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.939906 --- Archivo ArchivoPruebaHIDS_824.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:17.955907 --- Archivo ArchivoPruebaHIDS_825.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:17.971907 --- Archivo ArchivoPruebaHIDS_826.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:17.987887 --- Archivo ArchivoPruebaHIDS_827.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.003907 --- Archivo ArchivoPruebaHIDS_828.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.019882 --- Archivo ArchivoPruebaHIDS_829.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.035883 --- Archivo ArchivoPruebaHIDS_83.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.051890 --- Archivo ArchivoPruebaHIDS_830.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.067891 --- Archivo ArchivoPruebaHIDS_831.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.083882 --- Archivo ArchivoPruebaHIDS_832.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.099884 --- Archivo ArchivoPruebaHIDS_833.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.115891 --- Archivo ArchivoPruebaHIDS_834.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.131906 --- Archivo ArchivoPruebaHIDS_835.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.147907 --- Archivo ArchivoPruebaHIDS_836.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.163907 --- Archivo ArchivoPruebaHIDS_837.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.179907 --- Archivo ArchivoPruebaHIDS_838.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.195911 --- Archivo ArchivoPruebaHIDS_839.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.211906 --- Archivo ArchivoPruebaHIDS_84.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.227906 --- Archivo ArchivoPruebaHIDS_840.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.243900 --- Archivo ArchivoPruebaHIDS_841.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.259899 --- Archivo ArchivoPruebaHIDS_842.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.275885 --- Archivo ArchivoPruebaHIDS_843.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.291907 --- Archivo ArchivoPruebaHIDS_844.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.307882 --- Archivo ArchivoPruebaHIDS_845.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.323907 --- Archivo ArchivoPruebaHIDS_846.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.339883 --- Archivo ArchivoPruebaHIDS_847.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.355907 --- Archivo ArchivoPruebaHIDS_848.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.371889 --- Archivo ArchivoPruebaHIDS_849.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.387882 --- Archivo ArchivoPruebaHIDS_85.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.403906 --- Archivo ArchivoPruebaHIDS_850.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.419907 --- Archivo ArchivoPruebaHIDS_851.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.435907 --- Archivo ArchivoPruebaHIDS_852.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.451890 --- Archivo ArchivoPruebaHIDS_853.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.474468 --- Archivo ArchivoPruebaHIDS_854.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.488175 --- Archivo ArchivoPruebaHIDS_855.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.504206 --- Archivo ArchivoPruebaHIDS_856.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.520210 --- Archivo ArchivoPruebaHIDS_857.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.536211 --- Archivo ArchivoPruebaHIDS_858.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.552206 --- Archivo ArchivoPruebaHIDS_859.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.568192 --- Archivo ArchivoPruebaHIDS_86.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.584198 --- Archivo ArchivoPruebaHIDS_860.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.601600 --- Archivo ArchivoPruebaHIDS_861.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.625624 --- Archivo ArchivoPruebaHIDS_862.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.641626 --- Archivo ArchivoPruebaHIDS_863.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.657645 --- Archivo ArchivoPruebaHIDS_864.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.673645 --- Archivo ArchivoPruebaHIDS_865.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.689645 --- Archivo ArchivoPruebaHIDS_866.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.705625 --- Archivo ArchivoPruebaHIDS_867.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.721645 --- Archivo ArchivoPruebaHIDS_868.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.737628 --- Archivo ArchivoPruebaHIDS_869.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.761639 --- Archivo ArchivoPruebaHIDS_87.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.777621 --- Archivo ArchivoPruebaHIDS_870.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.793630 --- Archivo ArchivoPruebaHIDS_871.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.809639 --- Archivo ArchivoPruebaHIDS_872.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.825623 --- Archivo ArchivoPruebaHIDS_873.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.849632 --- Archivo ArchivoPruebaHIDS_874.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:18.865645 --- Archivo ArchivoPruebaHIDS_875.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.881639 --- Archivo ArchivoPruebaHIDS_876.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.905620 --- Archivo ArchivoPruebaHIDS_877.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.921629 --- Archivo ArchivoPruebaHIDS_878.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.937622 --- Archivo ArchivoPruebaHIDS_879.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.961646 --- Archivo ArchivoPruebaHIDS_88.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:18.977628 --- Archivo ArchivoPruebaHIDS_880.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:18.993645 --- Archivo ArchivoPruebaHIDS_881.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.009642 --- Archivo ArchivoPruebaHIDS_882.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.033638 --- Archivo ArchivoPruebaHIDS_883.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.049621 --- Archivo ArchivoPruebaHIDS_884.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.065623 --- Archivo ArchivoPruebaHIDS_885.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.081626 --- Archivo ArchivoPruebaHIDS_886.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.105622 --- Archivo ArchivoPruebaHIDS_887.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.129626 --- Archivo ArchivoPruebaHIDS_888.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.145623 --- Archivo ArchivoPruebaHIDS_889.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.161624 --- Archivo ArchivoPruebaHIDS_89.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.177624 --- Archivo ArchivoPruebaHIDS_890.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.193624 --- Archivo ArchivoPruebaHIDS_891.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.209623 --- Archivo ArchivoPruebaHIDS_892.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.217623 --- Archivo ArchivoPruebaHIDS_893.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.233626 --- Archivo ArchivoPruebaHIDS_894.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.249625 --- Archivo ArchivoPruebaHIDS_895.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.265625 --- Archivo ArchivoPruebaHIDS_896.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.281638 --- Archivo ArchivoPruebaHIDS_897.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.305635 --- Archivo ArchivoPruebaHIDS_898.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.321642 --- Archivo ArchivoPruebaHIDS_899.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.337643 --- Archivo ArchivoPruebaHIDS_9.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.353638 --- Archivo ArchivoPruebaHIDS_90.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.369639 --- Archivo ArchivoPruebaHIDS_900.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.385622 --- Archivo ArchivoPruebaHIDS_901.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.401624 --- Archivo ArchivoPruebaHIDS_902.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.417641 --- Archivo ArchivoPruebaHIDS_903.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.425648 --- Archivo ArchivoPruebaHIDS_904.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.449650 --- Archivo ArchivoPruebaHIDS_905.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.465754 --- Archivo ArchivoPruebaHIDS_906.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.481649 --- Archivo ArchivoPruebaHIDS_907.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.497647 --- Archivo ArchivoPruebaHIDS_908.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.513639 --- Archivo ArchivoPruebaHIDS_909.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.529642 --- Archivo ArchivoPruebaHIDS_91.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.545635 --- Archivo ArchivoPruebaHIDS_910.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.553649 --- Archivo ArchivoPruebaHIDS_911.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.577639 --- Archivo ArchivoPruebaHIDS_912.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.585647 --- Archivo ArchivoPruebaHIDS_913.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.601648 --- Archivo ArchivoPruebaHIDS_914.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.617648 --- Archivo ArchivoPruebaHIDS_915.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.633648 --- Archivo ArchivoPruebaHIDS_916.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.649648 --- Archivo ArchivoPruebaHIDS_917.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.665734 --- Archivo ArchivoPruebaHIDS_918.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.681648 --- Archivo ArchivoPruebaHIDS_919.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.697647 --- Archivo ArchivoPruebaHIDS_92.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.713647 --- Archivo ArchivoPruebaHIDS_920.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.729640 --- Archivo ArchivoPruebaHIDS_921.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.745644 --- Archivo ArchivoPruebaHIDS_922.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.761645 --- Archivo ArchivoPruebaHIDS_923.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.785619 --- Archivo ArchivoPruebaHIDS_924.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.862762 --- Archivo ArchivoPruebaHIDS_925.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.886423 --- Archivo ArchivoPruebaHIDS_926.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.902472 --- Archivo ArchivoPruebaHIDS_927.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.918466 --- Archivo ArchivoPruebaHIDS_928.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.934476 --- Archivo ArchivoPruebaHIDS_929.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.950476 --- Archivo ArchivoPruebaHIDS_93.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:19.966477 --- Archivo ArchivoPruebaHIDS_930.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:19.982475 --- Archivo ArchivoPruebaHIDS_931.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:19.998470 --- Archivo ArchivoPruebaHIDS_932.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.015966 --- Archivo ArchivoPruebaHIDS_933.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.031974 --- Archivo ArchivoPruebaHIDS_934.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.047966 --- Archivo ArchivoPruebaHIDS_935.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.063945 --- Archivo ArchivoPruebaHIDS_936.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.079946 --- Archivo ArchivoPruebaHIDS_937.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.095946 --- Archivo ArchivoPruebaHIDS_938.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.111946 --- Archivo ArchivoPruebaHIDS_939.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.127970 --- Archivo ArchivoPruebaHIDS_94.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.143960 --- Archivo ArchivoPruebaHIDS_940.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.159967 --- Archivo ArchivoPruebaHIDS_941.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.175960 --- Archivo ArchivoPruebaHIDS_942.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.191945 --- Archivo ArchivoPruebaHIDS_943.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.207945 --- Archivo ArchivoPruebaHIDS_944.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.223953 --- Archivo ArchivoPruebaHIDS_945.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.239950 --- Archivo ArchivoPruebaHIDS_946.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.255945 --- Archivo ArchivoPruebaHIDS_947.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.271952 --- Archivo ArchivoPruebaHIDS_948.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.287969 --- Archivo ArchivoPruebaHIDS_949.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.303969 --- Archivo ArchivoPruebaHIDS_95.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.319945 --- Archivo ArchivoPruebaHIDS_950.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.335953 --- Archivo ArchivoPruebaHIDS_951.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.351969 --- Archivo ArchivoPruebaHIDS_952.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.367969 --- Archivo ArchivoPruebaHIDS_953.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.383962 --- Archivo ArchivoPruebaHIDS_954.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.399969 --- Archivo ArchivoPruebaHIDS_955.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.415963 --- Archivo ArchivoPruebaHIDS_956.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.431962 --- Archivo ArchivoPruebaHIDS_957.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.447970 --- Archivo ArchivoPruebaHIDS_958.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.463962 --- Archivo ArchivoPruebaHIDS_959.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.479970 --- Archivo ArchivoPruebaHIDS_96.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.495970 --- Archivo ArchivoPruebaHIDS_960.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.511963 --- Archivo ArchivoPruebaHIDS_961.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.527946 --- Archivo ArchivoPruebaHIDS_962.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.543952 --- Archivo ArchivoPruebaHIDS_963.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.559946 --- Archivo ArchivoPruebaHIDS_964.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.575954 --- Archivo ArchivoPruebaHIDS_965.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.591961 --- Archivo ArchivoPruebaHIDS_966.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.607971 --- Archivo ArchivoPruebaHIDS_967.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.623969 --- Archivo ArchivoPruebaHIDS_968.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.639969 --- Archivo ArchivoPruebaHIDS_969.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.655963 --- Archivo ArchivoPruebaHIDS_97.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.671970 --- Archivo ArchivoPruebaHIDS_970.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.687971 --- Archivo ArchivoPruebaHIDS_971.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.703963 --- Archivo ArchivoPruebaHIDS_972.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.719970 --- Archivo ArchivoPruebaHIDS_973.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.735944 --- Archivo ArchivoPruebaHIDS_974.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.751945 --- Archivo ArchivoPruebaHIDS_975.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.767953 --- Archivo ArchivoPruebaHIDS_976.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.783944 --- Archivo ArchivoPruebaHIDS_977.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.799967 --- Archivo ArchivoPruebaHIDS_978.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.815957 --- Archivo ArchivoPruebaHIDS_979.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.831967 --- Archivo ArchivoPruebaHIDS_98.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.847961 --- Archivo ArchivoPruebaHIDS_980.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.863970 --- Archivo ArchivoPruebaHIDS_981.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.879972 --- Archivo ArchivoPruebaHIDS_982.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.895970 --- Archivo ArchivoPruebaHIDS_983.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.911969 --- Archivo ArchivoPruebaHIDS_984.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.927969 --- Archivo ArchivoPruebaHIDS_985.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.951970 --- Archivo ArchivoPruebaHIDS_986.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-01 16:53:20.959970 --- Archivo ArchivoPruebaHIDS_987.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:20.975970 --- Archivo ArchivoPruebaHIDS_988.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:20.991945 --- Archivo ArchivoPruebaHIDS_989.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:21.007944 --- Archivo ArchivoPruebaHIDS_99.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:21.023970 --- Archivo ArchivoPruebaHIDS_990.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:21.039954 --- Archivo ArchivoPruebaHIDS_991.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:21.055952 --- Archivo ArchivoPruebaHIDS_992.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:21.071945 --- Archivo ArchivoPruebaHIDS_993.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:21.087945 --- Archivo ArchivoPruebaHIDS_994.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:21.103969 --- Archivo ArchivoPruebaHIDS_995.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:21.119966 --- Archivo ArchivoPruebaHIDS_996.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:21.135967 --- Archivo ArchivoPruebaHIDS_997.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-01 16:53:21.151951 --- Archivo ArchivoPruebaHIDS_998.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-01 16:53:21.167946 --- Archivo ArchivoPruebaHIDS_999.txt de tipo SHA1. Todo correcto
+[FECHA] 2022-10-01 16:53:21.183945 --- Archivo README.md de tipo SHA256. Todo correcto

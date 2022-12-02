@@ -1,0 +1,12 @@
+##########################################################################
+	El porcentaje sin fallos de integridad es 62.5%
+##########################################################################
+
+[FECHA] 2022-10-02 19:38:54.478013 --- Archivo README.md de tipo SHA256. Todo correcto
+[FECHA] 2022-10-02 19:39:38.157957 --- Archivo README.md de tipo SHA256. Todo correcto
+[FECHA] 2022-10-02 19:43:49.119054 --- Archivo ArchivoPruebaHIDS_0.txt de tipo SHA256. Fallo de integridad
+[FECHA] 2022-10-02 19:43:49.120056 --- Archivo ArchivoPruebaHIDS_1.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-02 19:43:49.122058 --- Archivo ArchivoPruebaHIDS_2.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-02 19:43:49.122058 --- Archivo ArchivoPruebaHIDS_3.txt de tipo SHA256. Todo correcto
+[FECHA] 2022-10-02 19:43:49.123057 --- Archivo ArchivoPruebaHIDS_4.txt de tipo SHA1. Fallo de integridad
+[FECHA] 2022-10-02 19:43:49.124057 --- Archivo README.md de tipo SHA256. Todo correcto
